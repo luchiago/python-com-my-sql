@@ -1,2 +1,2 @@
-print("Olá Mundo")
-print("Olá novamente")
+import random
+print(dir(random))
