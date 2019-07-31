@@ -1,6 +1,6 @@
 ### PYTHON
 .idea
-notes.txt
+notes_udemy_python_with_mysql.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -456,3 +456,5 @@ unittest/sql/explain_filename-t
 unittest/sql/my_apc-t
 unittest/sql/sniper_modules-t
 unittest/strings/strings-t
+
+.vscode
